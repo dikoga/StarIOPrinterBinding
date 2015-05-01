@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="StarPrinter.csproj">
+﻿<Properties StartupItem="../StarPrinterSample/StarPrinterSample.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ApiDefinition.cs">
     <Files>
